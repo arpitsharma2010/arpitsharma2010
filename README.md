@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, C#, .NET Core, Spring Boot, AWS**
 
-- 📫 How to reach me **arjeet.sharma.1998@gmail.com**
+- 📫 How to reach me **arpeet.sharma.1998@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mcqK7Ru-knL_VgGzljd00gKsXkcPcKWW/view?pli=1](https://drive.google.com/file/d/1mcqK7Ru-knL_VgGzljd00gKsXkcPcKWW/view?pli=1)
 
