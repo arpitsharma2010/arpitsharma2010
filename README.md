@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsharma2010&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsharma2010" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitsharma2010" alt="arpitsharma2010" /></a> </p>
 
 - 💡 I’m currently working on [Portfolio](https://github.com/arpitsharma2010/portfolio)
