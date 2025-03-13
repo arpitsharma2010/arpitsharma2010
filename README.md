@@ -14,7 +14,7 @@
 ---
 
 ### 🎓 Education
-- **University at Buffalo - SUNY** *(August 2024 – Present)*  
+- **State University of New York at Buffalo** *(August 2024 – Present)*  
   - Master of Science in Computer Science and Engineering (GPA: 3.67/4.00)  
 - **Sant Gadge Baba Amravati University** *(July 2016 – October 2020)*  
   - Bachelor of Engineering in Computer Science and Engineering (GPA: 3.47/4.00)  
