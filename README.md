@@ -6,7 +6,7 @@
 - 💡 I’m currently working on [Portfolio](https://github.com/arpitsharma2010/portfolio)
 - 🌱 I’m currently learning **React**
 - 👯️ I’m looking to collaborate on **Full Stack Projects or AI/ML Projects**
-- 💻 All of my projects are available at [Portfolio](https://arpitsharma2010.github.io/portfolio/)
+- 💻 All of my projects are available at [Portfolio](https://arpitsharma2010.github.io/portfolio/) and GitHub
 - 💬 Ask me about **Java, C#, .NET Core, Spring Boot, AWS**
 - 📧 How to reach me **arpeet.sharma.1998@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mcqK7Ru-knL_VgGzljd00gKsXkcPcKWW/view?pli=1)
