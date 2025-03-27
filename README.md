@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitsharma2010" alt="arpitsharma2010" /></a> </p>
-
 - 💡 I’m currently working on [Portfolio](https://github.com/arpitsharma2010/portfolio)
 - 🌱 I’m currently learning **React**
 - 👯️ I’m looking to collaborate on **Full Stack Projects or AI/ML Projects**
