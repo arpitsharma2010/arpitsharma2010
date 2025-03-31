@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
+<h1 align="center">Hi, I'm Arpit Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 💡 I’m currently working on [Portfolio](https://github.com/arpitsharma2010/portfolio)
